@@ -1,4 +1,4 @@
-# RepData_PeerAssessment1
+
 ## Peer Assessment 1 for Reproducible Research
 ### Introduction
 It is now possible to collect a large amount of data about personal movement using activity monitoring devices such as a Fitbit,
